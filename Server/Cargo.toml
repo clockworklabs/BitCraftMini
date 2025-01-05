@@ -10,5 +10,5 @@ crate-type = ["cdylib"]
 
 [dependencies]
 rand = "0.8.5"
-spacetimedb = { path = "D:/dev/clockwork/SpacetimeDB/crates/bindings", features = ["getrandom"] }
+spacetimedb = "1.0.0-rc2"
 log = "0.4"
